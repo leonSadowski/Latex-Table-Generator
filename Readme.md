@@ -40,8 +40,6 @@ The table object does not have any other methods or attributes, initializing it 
 
 
 
-This module was created to make life easier when creating tables with uncertainties is necessary and therefore tried to keep quite plain. It's the result 
-of a phase with acute need for such a tool, so there might still be potential for improvements. However, I'm happy if it eventually helps you as well.
 
 
 

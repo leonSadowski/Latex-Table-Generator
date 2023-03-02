@@ -1,4 +1,4 @@
-Python module to generate LaTeX tables using uncertainties.unumpy uarrays (uncertainties package © 2010–2016, Eric O. LEBIGOT)
+Python module to generate LaTeX tables using uncertainties.unumpy uarrays (uncertainties package © 2010–2016, Eric O. LEBIGOT) or numpy.arrays for values without uncertainty.
 
 This module allows to create tables of values with uncertainties, that are saved in a .tex-file.
 The uncertainties will be displayed in the .tex-table via '\num{x(y)}' when an error is given, else '\num{x}'.

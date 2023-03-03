@@ -1,10 +1,10 @@
+Update notes 2.0:
+Removed Restrictions (different number of lines for each column possible, only one column possible, no temporary txt file necessary)
+
 Python module to generate LaTeX tables using uncertainties.unumpy uarrays (uncertainties package © 2010–2016, Eric O. LEBIGOT) or numpy.arrays for values without uncertainty.
 
 This module allows to create tables of values with uncertainties, that are saved in a .tex-file.
 The uncertainties will be displayed in the .tex-table via '\num{x(y)}' when an error is given, else '\num{x}'.
-
-Update notes 2.0:
-Removed Restrictions (different lines for each column possible, only one column possible, no temporary txt file necessary)
 
 CAVE:
 .tex-files will be overwritten if already existent! 

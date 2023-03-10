@@ -27,8 +27,6 @@ class Table():
                         self.num_list[list_index].append(f'\\num{{{nom_val:.{decimal}f}}}')
                     
 
-            print(f'num_list: {self.num_list}')
-
         def make_latextable(caption_input, texfile_name, label_name, column_names, si_setup = 4.2):
             '''Give caption as string-variable and column_names as array with columname-strings'''
 
